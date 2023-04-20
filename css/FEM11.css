@@ -67,7 +67,14 @@ body {
     width: 32%;
     opacity: 0.1;
 }
-
+@media (min-width: 1440px) {
+    .bg-l-body {
+        width: 34%;
+    }
+    .bg-r-body {
+        width: 34%;
+    }
+}
 .container {   
     display: flex;
     align-items: center;
