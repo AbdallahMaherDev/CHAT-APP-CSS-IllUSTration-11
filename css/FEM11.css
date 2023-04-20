@@ -67,7 +67,7 @@ body {
     width: 32%;
     opacity: 0.1;
 }
-@media (min-width: 1440px) {
+@media (min-width: 1450px) {
     .bg-l-body {
         width: 34%;
     }
