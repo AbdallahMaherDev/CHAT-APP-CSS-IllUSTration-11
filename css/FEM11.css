@@ -44,11 +44,11 @@ body {
     background: linear-gradient(to bottom ,
     var(--Light-Magenta) -100%,
     var(--Light-Violet));
-    height: 85vh;
+    height: 83vh;
     align-self: flex-start;
     position: fixed;
     top: 0;
-    left: -52px;
+    left: -49px;
     z-index: -1;
     border-radius: 0 0 290px 290px;
     width: 31.4%;
@@ -57,7 +57,7 @@ body {
     background: linear-gradient(to bottom ,
     var(--Light-Magenta),
     var(--Light-Violet));
-    height: 85vh;
+    height: 83vh;
     align-self: flex-start;
     position: fixed;
     right: -123px;
@@ -84,7 +84,7 @@ body {
 }
 @media (min-width: 768px) {
     .container {   
-        margin: 0 0 66px 66px;
+        margin: 0 0 70px 70px;
     }
 }
 .container .mop {
@@ -93,6 +93,7 @@ body {
     border-radius: 32px;
     width: 100%;
     max-width: 246px;
+    box-shadow: 2px 17px 20px 0px #00000026;
 }
 @media (max-width: 767px) {
     body {
