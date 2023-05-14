@@ -48,9 +48,9 @@ body {
     align-self: flex-start;
     position: fixed;
     top: 0;
-    left: -36px;
+    left: -34px;
     z-index: -1;
-    border-radius: 0 0 290px 290px;
+    border-radius: 0 0 350px 350px;
     width: 31.4%;
 }
 .bg-r-body {
@@ -63,7 +63,7 @@ body {
     right: -137px;
     bottom: 0;
     z-index: -1;
-    border-radius: 290px 290px 0 0;
+    border-radius: 350px 350px 0 0;
     width: 32%;
     opacity: 0.1;
 }
@@ -84,7 +84,7 @@ body {
 }
 @media (min-width: 768px) {
     .container {   
-        margin: 0px 0 81px 95px;
+        margin: 0px 0 81px 100px;
     }
 }
 .container .mop {
