@@ -44,11 +44,11 @@ body {
     background: linear-gradient(to bottom ,
     var(--Light-Magenta) -100%,
     var(--Light-Violet));
-    height: 88vh;
+    height: 87.6vh;
     align-self: flex-start;
     position: fixed;
     top: 0;
-    left: -41px;
+    left: -36px;
     z-index: -1;
     border-radius: 0 0 290px 290px;
     width: 31.4%;
@@ -57,10 +57,10 @@ body {
     background: linear-gradient(to bottom ,
     var(--Light-Magenta),
     var(--Light-Violet));
-    height: 88vh;
+    height: 87.6vh;
     align-self: flex-start;
     position: fixed;
-    right: -130px;
+    right: -137px;
     bottom: 0;
     z-index: -1;
     border-radius: 290px 290px 0 0;
@@ -84,7 +84,7 @@ body {
 }
 @media (min-width: 768px) {
     .container {   
-        margin: 0px 0 81px 85px;
+        margin: 0px 0 81px 95px;
     }
 }
 .container .mop {
