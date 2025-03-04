@@ -2,7 +2,9 @@
 
 🌟 Introduction
 
-Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a simple yet elegant component that displays a user's test results in a visually appealing way.
+Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project features a beautifully designed chat app interface created entirely with HTML & CSS, showcasing CSS illustration techniques.
+
+
 
 🚀 Features
 
@@ -14,13 +16,7 @@ Dynamic score representation
 
 🛠 Technologies Used
 
-HTML5
-
-CSS3 (Flexbox & Grid for layout)
-
-git clone (https://github.com/AbdallahMaherDev/CHAT-APP-CSS-IllUSTration-11)
-
-Open index.html in your browser to view the component.
+HTML / CSS3
 
 🎨 Preview
 
